@@ -26,12 +26,16 @@
   <img src="https://img.shields.io/badge/3ds%20Max-00A9CC?style=for-the-badge&logo=autodesk&logoColor=white" />
   <img src="https://img.shields.io/badge/Maya-37A5CC?style=for-the-badge&logo=autodesk&logoColor=white" />
   <img src="https://img.shields.io/badge/ZBrush-404040?style=for-the-badge&logo=zbrush&logoColor=white" />
+  <img src="https://img.shields.io/badge/SketchUp-005F9E?style=for-the-badge&logo=sketchup&logoColor=white" />
+  <img src="https://img.shields.io/badge/Character%20Creator-2B2B2B?style=for-the-badge" />
   <br><br>
   <img src="https://img.shields.io/badge/Marvelous%20Designer-FFEA00?style=for-the-badge&logo=marvelousdesigner&logoColor=black" />
   <img src="https://img.shields.io/badge/CLO%203D-000000?style=for-the-badge" />
   <br><br>
   <img src="https://img.shields.io/badge/Substance%20Painter-8D1F23?style=for-the-badge&logo=adobe&logoColor=white" />
   <img src="https://img.shields.io/badge/Substance%20Designer-E47125?style=for-the-badge&logo=adobe&logoColor=white" />
+  <img src="https://img.shields.io/badge/Quixel%20Mixer-1D1D1D?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Marmoset%20Toolbag-5A5A5A?style=for-the-badge" />
   <br><br>
   <img src="https://img.shields.io/badge/Unreal%20Engine-313131?style=for-the-badge&logo=unrealengine&logoColor=white" />
   <img src="https://img.shields.io/badge/CodeWalker-2C2C2C?style=for-the-badge" />
