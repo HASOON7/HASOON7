@@ -3,9 +3,9 @@
 <h1>👑 Hasan | HASOON 👑</h1>
 <h3>3D Artist | Environment Designer | UI/NUI Expert</h3>
 
-<p>
+<p align="center">
   <a href="https://discord.com/users/700901402716799036">
-    <img src="https://img.shields.io/badge/Discord-HASOON-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+    <img src="https://lanyard.cnrad.dev/api/700901402716799036?theme=dark" alt="Discord Presence" />
   </a>
 </p>
 
