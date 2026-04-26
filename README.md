@@ -11,15 +11,15 @@
 
 ---
 
-### Skills & Specializations
-**3D Map & Environment Design** (Interiors/Exteriors) <br>
-**3D Clothing Design & Modeling** <br>
-**FiveM / GTA V Custom Assets** (CodeWalker, OpenIV) <br>
-**Minimalist & Professional UI/NUI Design**
+### 🎨 Skills & Specializations
+**🏢 3D Map & Environment Design** (Interiors/Exteriors) <br>
+**👕 3D Clothing Design & Modeling** <br>
+**🎮 FiveM / GTA V Custom Assets** (CodeWalker, OpenIV) <br>
+**✨ Minimalist & Professional UI/NUI Design**
 
 ---
 
-### Tools & Software
+### 🛠️ Tools & Software
 
 <p align="center">
   <img src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white" />
@@ -45,7 +45,7 @@
 
 ---
 
-### GitHub Stats
+### 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=HASOON7&theme=dark&hide_border=false&include_all_commits=true&count_private=true" />
@@ -55,15 +55,13 @@
 
 ---
 
-### Random Quote
+### ✍️ Random Quote
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
 </p>
 
 <p align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=HASOON7&icon=0&color=5" />
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=HASOON7&color=555555&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
 </p>
 
 </div>
